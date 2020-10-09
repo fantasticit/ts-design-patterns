@@ -1,6 +1,6 @@
 <h1>ts-design-patterns</h1>
 
-<div align="center">
+<div>
 <p>Design pattern implemented by TypeScript.</p>
 <img width="50%" alt="cube" src="https://user-images.githubusercontent.com/26452939/95185053-ce57a180-07fa-11eb-9d67-baafc83ef280.png">
 </div>
