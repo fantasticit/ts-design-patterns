@@ -10,7 +10,7 @@
 - [构造器模式（constructor-pattern）](./src/constructor-pattern.ts)
 - [工程模式（factory-pattern）](./src/factory-pattern.ts)
 - [原型链模式（prototype-pattern）](./src/prototype-pattern.ts)
-
 - [适配器模式（adapter-pattern）](./src/adapter-pattern.ts)
 - [组合模式（composite-pattern）](./src/composite-pattern.ts)
 - [装饰器模式（decorator-pattern）](./src/decorator-pattern.ts)
+- [享元模式（flyweight-pattern）](./src/factory-pattern.ts)
