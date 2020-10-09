@@ -15,3 +15,4 @@
 - [装饰器模式（decorator-pattern）](./src/decorator-pattern.ts)
 - [享元模式（flyweight-pattern）](./src/factory-pattern.ts)
 - [代理模式（proxy-pattern）](./src/proxy-pattern.ts)
+- [责任链模式（chain-of-responsibility-pattern）](./src/chain-of-responsibility-pattern.ts)
