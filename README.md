@@ -12,3 +12,4 @@
 - [原型链模式（prototype-pattern）](./src/prototype-pattern.ts)
 
 - [适配器模式（adapter-pattern）](./src/adapter-pattern.ts)
+- [组合模式（composite-pattern）](./src/composite-pattern.ts)
