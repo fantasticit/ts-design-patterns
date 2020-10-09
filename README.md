@@ -14,3 +14,4 @@
 - [组合模式（composite-pattern）](./src/composite-pattern.ts)
 - [装饰器模式（decorator-pattern）](./src/decorator-pattern.ts)
 - [享元模式（flyweight-pattern）](./src/factory-pattern.ts)
+- [代理模式（proxy-pattern）](./src/proxy-pattern.ts)
