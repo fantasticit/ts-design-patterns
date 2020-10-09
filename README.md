@@ -8,3 +8,4 @@
 ## 目录
 
 - [构造器模式（constructor-pattern）](./src/constructor-pattern.ts)
+- [工程模式（factory-pattern）](./src/factory-pattern.ts)
