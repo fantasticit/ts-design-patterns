@@ -13,3 +13,4 @@
 
 - [适配器模式（adapter-pattern）](./src/adapter-pattern.ts)
 - [组合模式（composite-pattern）](./src/composite-pattern.ts)
+- [装饰器模式（decorator-pattern）](./src/decorator-pattern.ts)
