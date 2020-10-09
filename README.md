@@ -9,3 +9,4 @@
 
 - [构造器模式（constructor-pattern）](./src/constructor-pattern.ts)
 - [工程模式（factory-pattern）](./src/factory-pattern.ts)
+- [原型链模式（prototype-pattern）](./src/prototype-pattern.ts)
