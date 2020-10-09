@@ -16,3 +16,4 @@
 - [享元模式（flyweight-pattern）](./src/factory-pattern.ts)
 - [代理模式（proxy-pattern）](./src/proxy-pattern.ts)
 - [责任链模式（chain-of-responsibility-pattern）](./src/chain-of-responsibility-pattern.ts)
+- [观察者模式（observer-pattern）](./src/observer-pattern.ts)
